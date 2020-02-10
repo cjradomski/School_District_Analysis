@@ -21,7 +21,8 @@ The top performing schools includes:
 Data from the ninth grade class Thomas High School were changed and had to be removed from the analysis. Significant changes in previous findings include:
 
 * Thomas High School is no longer considered a top performing school.
-* Areas where overall performance decreased
+* Areas where overall performance decreased:
+
       * Charter Schools
       * Medium sized schools (1,000 - 2,000)
       * Schools with funding in the range of $630 - $644 (per student)
