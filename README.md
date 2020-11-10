@@ -1,7 +1,14 @@
-# School_District_Analysis
-In this analysis, data from a school district explored to determine the performance of certain schools in relation to reading and math scores, population, funding, and school type.
+# School District Analysis Using Pandas
+In this analysis, data from a school district is explored to determine the performance of certain schools in relation to reading and math scores, population, funding, and school type. Data was imported as CSV files.
+
+## Technologies Used
+* Language: Python
+* Development Environment: Jupyter Notebook
+* Packages: pandas
 
 ## Results
+After importing the data, performing exploratory data analysis, and cleaning the data, the following conclusions were made based on the analysis.
+
 The district had an overall passing rate of 65% with a budget of $24,649,428. There was a 74% pass rate in math and 85% pass rate in reading. 
 
 The top performing schools includes:
